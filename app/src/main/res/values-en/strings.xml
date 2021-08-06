@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">COVID_19</string>
+    <string name="dummytext">HOW TO PREVENT THE SPREAD OF COVID 19
+•	Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water. This eliminates germs including viruses that may be on your hands.
+•	Avoid touching your eyes, nose and mouth. Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. From there, the virus can enter your body and infect you.
+•	Cover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Then dispose of the used tissue immediately into a closed bin and wash your hands. By following good ‘respiratory hygiene’, you protect the people around you from viruses, which cause colds, flu and COVID-19.
+•	Clean and disinfect surfaces frequently especially those which are regularly touched, such as door handles, faucets and phone screens.
+</string>
+    <string name="salaam">How to make your environment safer
+•	Avoid the 3Cs: spaces that are closed, crowded or involve close contact.
+o	Outbreaks have been reported in restaurants, choir practices, fitness classes, nightclubs, offices and places of worship where people have gathered, often in crowded indoor settings where they talk loudly, shout, breathe heavily or sing.
+o	The risks of getting COVID-19 are higher in crowded and inadequately ventilated spaces where infected people spend long periods of time together in close proximity. These environments are where the virus appears to spread by respiratory droplets or aerosols more efficiently, so taking precautions is even more important.
+•	Meet people outside. Outdoor gatherings are safer than indoor ones, particularly if indoor spaces are small and without outdoor air coming in.
+o	For more information on how to hold events like family gatherings, children’s football games and family occasions, read our Q and A on small public gatherings.
+•	Avoid crowded or indoor settings but if you can’t, then take precautions:
+o	Open a window. Increase the amount of ‘natural ventilation’ when indoors.
+o	WHO has published Q and As on ventilation and air conditioning for both the general public and people who manage public spaces and buildings.
+o	Wear a mask (see above for more details).
+</string>
+    <string name="btn_M2"> continue </string>
+    <string name="english"> English</string>
+    <string name="Rutooro"> Rutooro </string>
+    <string name="greeting"> hello uganda </string>
+    <string name="measures"> what you are reading are ways of protect ours selves agaisnt covid 19 </string>
+    <string name="videos_text"> to watch the video press the button of english </string>
+    <string name="call_btn"> press this button to call for emergency </string>
+
+</resources>

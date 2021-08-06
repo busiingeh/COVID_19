@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">COVID_19</string>
+    <string name="dummytext">HOW TO PREVENT THE SPREAD OF COVID 19
+•	Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water. This eliminates germs including viruses that may be on your hands.
+•	Avoid touching your eyes, nose and mouth. Hands touch many surfaces and can pick up viruses. Once contaminated, hands can transfer the virus to your eyes, nose or mouth. From there, the virus can enter your body and infect you.
+•	Cover your mouth and nose with your bent elbow or tissue when you cough or sneeze. Then dispose of the used tissue immediately into a closed bin and wash your hands. By following good ‘respiratory hygiene’, you protect the people around you from viruses, which cause colds, flu and COVID-19.
+•	Clean and disinfect surfaces frequently especially those which are regularly touched, such as door handles, faucets and phone screens.
+</string>
+    <string name="salaam">Nkooku musobora kwerinda oburwaire mu bichweka byanyu
+•	Mwerinde kuguma nu mugya mu bichweka ebiine abantu abaingi
+o	Ebiikaro nka church, hoteeri, restaurants, emizigiti, hamu nebikaro ebirimu polipo mu byetantale muno habwokuba nibiba mbireeta oburwaire kusasana,
+o	Ebikaro ebitaine bumooli, rundi kwikya kurungi nabyo bibi habwokuba nibiretera abantu kweyongera kurwara habwo kikizaamu ngana.
+
+•	Kutangaana abauntu aheeru yomuka .
+
+o	Mweyongereyo musome ebindi ebintu ebikukwatagana no kutangatangana hamu na ba family hamu naba nakabi aka kirimu.
+
+o	hanu abantu abakutangatanga aheeru ya maju mbaba baine omugisa kutarwara kusinga abkutangaana munju, nahabwekyo haakire mutangatangane aheeru baiitu atali munju.
+
+•	Mwerinde kwikara munju muli baingi  obu muraaba mutakusobora, haakire buli omu abe bulindara.
+o	Kingura idirisa mwongere obumooli ha maju
+o	WHO has published Q and As on ventilation and air conditioning for both the general public and people who manage public spaces and buildings.
+o	Jwara mask (seruliza naiwe habwaawe).
+
+
+
+</string>
+    <string name="btn_M2"> weyogereyo </string>
+    <string name="english"> English</string>
+    <string name="Rutooro"> Rutooro </string>
+    <string name="greeting"> olyota uganda </string>
+    <string name="measures"> ngeriki eyokwerindamu oburwaire </string>
+    <string name="videos_text"> nyiga ipeesa eriloho orulimi rwawe </string>
+    <string name="call_btn"> nyiga ipeesa linu kuteera abobuyambi </string>
+
+</resources>
